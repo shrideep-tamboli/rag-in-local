@@ -9,8 +9,8 @@ from langchain_community.vectorstores.chroma import Chroma
 
 
 
-CHROMA_PATH = r"C:\Users\user\OneDrive\Desktop\rag_test\venv\Lib\site-packages\chromadb"
-DATA_PATH = r"C:\Users\user\OneDrive\Desktop\RAG Projects\local-RAG\rag-tutorial-v2\data\monopoly.pdf"
+CHROMA_PATH = r""
+DATA_PATH = r""
 
 
 def main():
