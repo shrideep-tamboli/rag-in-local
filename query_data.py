@@ -6,7 +6,7 @@ from langchain_chroma import Chroma
 
 from get_embedding_function import get_embedding_function
 
-CHROMA_PATH = r"C:\Users\user\OneDrive\Desktop\rag_test\venv\Lib\site-packages\chromadb"
+CHROMA_PATH = r""
 
 PROMPT_TEMPLATE = """
 Answer the question based only on the following context:
